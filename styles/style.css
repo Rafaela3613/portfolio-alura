@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;500;700&family=Krona+One&family=Montserrat:wght@400;600&family=Roboto:wght@700&family=Rubik+Doodle+Shadow&display=swap');
 
+:root {
+    --cor-primaria:linear-gradient(#2C80E0, #E133DF);;
+    --cor-secundaria: #ab145dd2;
+    --cor-terciaria: #3504a7;
+}
 
 *{
     margin: 0;
