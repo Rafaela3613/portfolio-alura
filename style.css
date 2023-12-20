@@ -53,6 +53,9 @@ body {
     font-size: 24px;
 }
 .apresentacao__links__link{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px ridge #a2079d;
     width: 378px;
     text-align: center;
