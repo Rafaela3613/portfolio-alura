@@ -45,7 +45,7 @@ body {
 }
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
-    font-size: 25px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-primaria);
     text-decoration: none;
@@ -63,14 +63,14 @@ body {
     gap: 40px;
 }
 .apresentacao__conteudo__titulo{
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--cor-hover);
 }
 .titulo__destaque {
     color: var(--cor-primaria);
 }
 .apresentacao__conteudo__texto{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
 }
 .apresentacao__links{
@@ -83,12 +83,12 @@ body {
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-secundaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .apresentacao__links__subtitulo__about{
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
     color:var(--cor-primaria);
 }
 
@@ -100,7 +100,7 @@ body {
     width: 378px;
     text-align: center;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 21.5px  0 ;
     text-decoration: none;
@@ -117,6 +117,6 @@ body {
     background-color:var(--cor-hover-2);
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
