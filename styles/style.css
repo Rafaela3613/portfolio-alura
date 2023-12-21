@@ -44,6 +44,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
 }
 .apresentacao__conteudo{
     width: 70%;
@@ -100,13 +101,8 @@ body {
     background-color:var(--cor-terciaria);
     
 }
-.imagem_foto{
-    position: absolute;
-    top: 150px;
-    right:200px;
-}
 .apresentacao__imagem{
-    width:50% ;
+    width:40% ;
 }
 .rodape{
     padding: 24px;
@@ -116,4 +112,11 @@ body {
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
+}
+
+@media(max-width:1200px){
+    .apresentacao{
+        flex-direction: column-reverse;
+    }
+
 }
