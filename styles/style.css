@@ -26,11 +26,11 @@ body {
     color:var(--cor-primaria);
 }
 .cabecalho{
-    padding: 2% 0 0 15%;
+    padding: 2% 0% 0% 15%;
 }
 .cabecalho__menu{
     display: flex;
-    gap: 80px;
+    gap: 50px;
 }
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
@@ -115,8 +115,19 @@ body {
 }
 
 @media(max-width:1200px){
+
+    .cabecalho {
+        padding: 6%;
+    }
+    .cabecalho__menu{
+        justify-content: center;
+    }
     .apresentacao{
         flex-direction: column-reverse;
+        padding: 5%;
+    }
+    .apresentacao__conteudo{
+        width: auto;
     }
 
 }
