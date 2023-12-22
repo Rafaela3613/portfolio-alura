@@ -1,7 +1,7 @@
 # Portfólio 
 <h2>Olá, Bem vindo ao meu projeto de portfólio.</h2>
 
-![image](imagemtela1.png) ![image](imagemtela2.png)
+ ![image](imagemtela2.png)
 
 ## Ferramentas utilizadas:
 
